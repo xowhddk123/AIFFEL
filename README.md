@@ -23,3 +23,7 @@ AIFFEL 교육내용 정리
 ### data analistic
 - 모두카페 매출 데이터 분석
 
+
+### data thon
+- Sanfransisco Crime Data Snalisis
+
